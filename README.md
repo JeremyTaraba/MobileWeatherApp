@@ -11,13 +11,13 @@ The Mobile Weather App offers the following features:
 
 ## Screenshots
 
-![Imgur](https://i.imgur.com/yob7MSJ.png)
+![Clear](https://i.imgur.com/yob7MSJ.png)
 
-![Imgur](https://i.imgur.com/EI1vMAz.png)
+![Night](https://i.imgur.com/EI1vMAz.png)
 
-![Imgur](https://i.imgur.com/OXjhxpc.png)
+![HeavyRain](https://i.imgur.com/OXjhxpc.png)
 
-![Imgur](https://i.imgur.com/gE9xpwP.png)
+![LightRain](https://i.imgur.com/gE9xpwP.png)
 
 
 ## Technologies Used
