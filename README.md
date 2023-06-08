@@ -1,6 +1,6 @@
 # MobileWeatherApp
 
-Contains the source code and resources for a mobile weather application. The app provides users with up-to-date weather information, forecasts, and other related features.
+Contains the source code and resources for my mobile weather application called Klimate. The app provides users with up-to-date weather information, forecasts, and other related features.
 
 ## Features
 
@@ -11,6 +11,13 @@ The Mobile Weather App offers the following features:
 
 ## Screenshots
 
+![Imgur](https://i.imgur.com/yob7MSJ.png)
+
+![Imgur](https://i.imgur.com/EI1vMAz.png)
+
+![Imgur](https://i.imgur.com/OXjhxpc.png)
+
+![Imgur](https://i.imgur.com/gE9xpwP.png)
 
 
 ## Technologies Used
